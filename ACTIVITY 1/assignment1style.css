@@ -168,8 +168,12 @@ p {
         align-items: center;
     }
 
-    .box1, .box2 {
-        max-width: 70%;
+    .box1 {
+        max-width: 50%;
+        margin: 15px 0;
+    }
+    .box2 {
+        max-width: 80%;
         margin: 15px 0;
     }
 }
@@ -188,7 +192,7 @@ p {
     }
 
     .box1 {
-        max-width: 70%;
+        max-width: 40%;
         padding: 10px;
     }
 
